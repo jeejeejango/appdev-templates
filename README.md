@@ -1,4 +1,4 @@
-## OpenShift AppDev Templates
+## OpenShift AppDev Tools Templates
 
 ### [Gogs](https://gogs.io/)
 [OpenShiftDemos](https://github.com/OpenShiftDemos/gogs-openshift-docker) provide the Gogs OpenShift template based 
