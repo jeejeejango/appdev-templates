@@ -289,7 +289,7 @@ objects:
       ROOT = 
 
       [server]
-      ROOT_URL=http://${HOSTNAME}
+      ROOT_URL=http://${HOSTNAME}/
       SSH_DOMAIN=${HOSTNAME}
 
       [security]
